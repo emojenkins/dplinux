@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="000",Movistar+ HD
 rtp://@239.0.5.185:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="001",La 1 HD
@@ -16,7 +17,7 @@ rtp://@239.0.0.187:8208
 rtp://@239.0.5.187:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="008",#Vamos HD
 rtp://@239.0.5.197:8208
-#EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="009",TeleMadrid HD *
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="009",TeleMadrid HD
 rtp://@239.0.0.181:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="013",FOX HD
 rtp://@239.0.9.134:8208
