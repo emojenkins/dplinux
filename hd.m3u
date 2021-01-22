@@ -41,8 +41,10 @@ rtp://@239.0.5.79:8208
 rtp://@239.0.5.75:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="026",Neox HD
 rtp://@239.0.5.207:8208
-#EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="027",Atreseries HD
-rtp://@239.0.0.190:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="027",DAZN1 HD
+rtp://@239.0.5.190:8208
+#EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="028",DAZN2 HD
+rtp://@239.0.5.191:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="037",TCM HD
 rtp://@239.0.5.89:8208
 #EXTINF:-1 tvh-epg="disable" tvh-tags="HD" tvh-chnum="038",Hollywood HD
